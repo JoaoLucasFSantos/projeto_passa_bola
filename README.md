@@ -1,6 +1,6 @@
 # ⚽ Projeto Passa a Bola
 
-[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue)](https://github.com/JoaoLucasFSantos/projeto_passa_bola.git))
+[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue)](https://github.com/JoaoLucasFSantos/projeto_passa_bola.git)
 
 ## 📌 Sobre o Projeto
 O **Passa a Bola** é uma plataforma voltada para a **comunidade do futebol amador**, criada para dar voz aos jogadores, jogadoras e equipes locais.  
