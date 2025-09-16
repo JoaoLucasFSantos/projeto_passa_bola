@@ -57,7 +57,7 @@ Seção especial para acompanhar classificações, jogos e oportunidades em **pe
 ## 🔧 Como Executar Localmente
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Samuel-Oliveira-Silva/projeto_passa_bola.git
+   git clone https://github.com/JoaoLucasFSantos/projeto_passa_bola.git
 Acesse a pasta do projeto:
 
 bash
